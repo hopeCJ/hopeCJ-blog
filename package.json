@@ -7,7 +7,7 @@
   },
   "scripts": {
     "deploy": "hexo c && hexo g && hexo d",
-    "build": "hexo g",
+    "start": "hexo g",
     "dev": "hexo c && hexo g && hexo s -d"
   },
   "dependencies": {
