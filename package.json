@@ -6,7 +6,7 @@
     "version": "3.2.2"
   },
   "scripts": {
-    "deploy": "hexo c && hexo g && hexo d",
+    "deploy": "hexo d",
     "start": "hexo g",
     "dev": "hexo c && hexo g && hexo s -d"
   },
